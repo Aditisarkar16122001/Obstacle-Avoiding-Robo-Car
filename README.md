@@ -1,4 +1,4 @@
-#  Ultrasonic Obstacle Avoiding Robot using Arduino
+# Obstacle Avoiding Robot using Arduino
 
 An autonomous obstacle-avoiding robot built using **Arduino UNO**, **HC-SR04 ultrasonic sensor**, **servo motor**, and **L298N motor driver**.  
 The robot detects obstacles in real time, scans left and right using a servo-mounted ultrasonic sensor, and intelligently chooses the safest path.
