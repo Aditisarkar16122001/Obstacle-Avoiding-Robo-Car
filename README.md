@@ -107,15 +107,5 @@ Install `NewPing` from Arduino Library Manager.
 
 ---
 
-##  Future Improvements
-
-- PID-based motor control  
-- IR sensors for edge detection  
-- Bluetooth/Wi-Fi remote control  
-- Camera-based obstacle detection  
-- ROS integration  
-
----
-
 
 
