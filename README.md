@@ -55,7 +55,7 @@ The robot detects obstacles in real time, scans left and right using a servo-mou
 ##  Project Images
 
 ### Robot Prototype
-![Robot Prototype](./robot.jpg)
+![Robot Prototype](Robo Car.jpeg)
 
 ### Circuit Diagram
 ![Circuit Diagram](image.png)
