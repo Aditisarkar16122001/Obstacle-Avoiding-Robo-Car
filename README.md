@@ -55,7 +55,7 @@ The robot detects obstacles in real time, scans left and right using a servo-mou
 ##  Project Images
 
 ### RoboCar Image
-![RoboCar Image](Robo Car.jpeg)
+![RoboCar Image](https://github.com/Aditisarkar16122001/Obstacle-Avoiding-Robo-Car/blob/main/Robo%20Car.jpeg)
 
 ### Circuit Diagram
 ![Circuit Diagram](image.png)
