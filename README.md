@@ -21,9 +21,8 @@ The robot detects obstacles in real time, scans left and right using a servo-mou
 - HC-SR04 Ultrasonic Sensor  
 - Servo Motor (SG90)  
 - L298N Dual H-Bridge Motor Driver  
-- DC Motors (2x)  
-- Robot Chassis  
-- Battery (7–12V)  
+- DC Motors 
+- Battery   
 - Jumper Wires  
 
 ---
