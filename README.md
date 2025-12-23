@@ -58,7 +58,7 @@ The robot detects obstacles in real time, scans left and right using a servo-mou
 ![Robot Prototype](./robot.jpg)
 
 ### Circuit Diagram
-![Circuit Diagram](./circuit.png)
+![Circuit Diagram](image.png)
 
 >  *Make sure the image files are uploaded to the repository with the same names.*
 
